@@ -154,15 +154,18 @@ to help prioritize listings that satisfy multiple criteria.
 
 ## 💡 Key Business Insights
 
-The analysis can help answer questions such as:
+Based on the analysis of the project dataset:
 
-- Which localities have higher or lower average rents?
-- Which sharing type provides lower-cost options?
-- How many listings fall into each price category?
-- Is there a rental-price difference between PGs with and without specific amenities?
-- Which PGs satisfy a user's affordability and accessibility requirements?
-- Which PG has the highest rating within each locality?
-- Which listings are priced above or below their locality's average?
+- Rental prices varied considerably across different Mumbai localities.
+- Bandra West had the highest average rent among the listed localities in the dataset.
+- Different sharing types showed differences in average, minimum and maximum rental prices.
+- PG listings were segmented into Budget, Moderate and Premium categories based on monthly rent.
+- Amenity availability was compared with average rental prices to identify pricing patterns within the dataset.
+- Individual PG rents were benchmarked against the average rent of their respective locality.
+- Multi-criteria filtering helped identify PGs matching specific requirements related to affordability, rating, metro accessibility and amenities.
+- A rule-based recommendation score was developed using business-defined criteria such as affordability, rating, accessibility, food, Wi-Fi and security.
+
+> **Note:** These findings are based on the synthetic dataset created for this project and do not represent actual Mumbai rental-market statistics.
 
 ---
 
