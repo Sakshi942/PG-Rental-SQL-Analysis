@@ -179,9 +179,4 @@ PG-Rental-SQL-Analysis/
 ├── sql/
 │   ├── 01_create_table.sql
 │   ├── 02_insert_data.sql
-│   └── 03_analysis_queries.sql
-│
-└── screenshots/
-    ├── database.png
-    ├── locality_analysis.png
-    └── recommendation_analysis.png
+│   └── 03_analysis_queries.sql 
